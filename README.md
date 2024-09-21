@@ -1,2 +1,2 @@
 # crm-gitHubActions-nestjs
-CICD co gitHub Actions com nestJs
+CICD com gitHub Actions com nestJs
